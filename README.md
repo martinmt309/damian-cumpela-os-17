@@ -72,7 +72,7 @@
     </audio>    
     <div class="container">
         <h1>¡Hola, Damián!</h1>
-        <p>Esta página está dedicada a ti, por ser un amigo increíble y siempre estar ahí. ¡Gracias por todo!</p>
+        <p>Damián Rodríguez (mi pené), mi hermano de otra sangre, desde pequeños nadie nos separaba y no parábamos de experimentar cosas nuevas y de reírnos de cosas absurdas como la mua o el colacao, solo con hacer el gesto nos leemos la mente, y otra cosa nos gusta estudiar lo mismo pero yo he tenido el error de meterme en esta mierda, pero tranquilo que ya llegaré yo para hacerlo todo broza, no hay nada más que decir que disfrutes de tus 17 con los que quieres. Un abrazo hermano. ❤❤</p>
         <button class="button">¡Eres el mejor!</button>
     </div>
 </body>
