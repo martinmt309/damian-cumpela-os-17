@@ -1,5 +1,3 @@
-# damian-cumpela-os-17
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
